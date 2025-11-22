@@ -33,11 +33,19 @@ const About = () => {
             />
           </h1>
           <p align="justify">
-            I'm a Petroleum Engineer, Chemical Engineering Student that wanted
-            to go beyond, and now became a FullStack Developer. As a developer,
-            I look forward my first opportunity to work with an IT company where
-            I could learn about the latest technologies on challenging and
-            diverse projects.
+            I am a Technical Consultant with experience working on system
+            configuration, scripting, and software integrations, mainly using
+            PowerShell, SQL, and XML. I have also worked with modern web
+            technologies such as JavaScript, React, Redux, Node.js, Express, and
+            Sequelize through academic and bootcamp projects, including
+            applications like ClickCare and a Pokémon web app. In my role at
+            Harris, I support system implementation tasks such as requirement
+            analysis, documentation, configuration, and client testing. I also
+            have previous experience as a Full Stack Teaching Assistant and AI
+            Data Trainer. My academic background in engineering has helped me
+            build analytical thinking and problem-solving skills, and I continue
+            to develop professionally through ongoing learning in data science
+            and programming.
           </p>
           <p align="justify">
             As full stack developer now I can handle technologies as:
